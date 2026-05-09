@@ -5,7 +5,7 @@ Retrieval Augmented Generation (RAG). Upload any PDF and ask questions —
 the app retrieves the most relevant sections and generates accurate answers 
 grounded strictly in the document.
 
-**Live App:** [Click here to view the app](your-streamlit-url-here)
+**Live App:** [Click here to view the app](https://rag-document-chatbot-3xc55appqu9slljfzstbfqt.streamlit.app/)
 
 ---
 
